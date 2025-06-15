@@ -1,0 +1,32 @@
+#root {
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  margin: 0px;
+}
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background-color: white;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 3fr 2fr 1fr;
+  gap: 0.2rem;
+}
+
+.image-container {
+  width: 100%;
+  /*background-image: url("/illustration-sign-up-tablet.svg");*/
+}
+
+.image-container img {
+  width: 100%;
+}
+
+.first-text {
+}
+
+.second-text {
+}
