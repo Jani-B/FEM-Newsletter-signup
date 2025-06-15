@@ -38,6 +38,7 @@ function App() {
               type="email"
               id="email"
               name="email"
+              placeholder="email@company.com"
             ></input>
             <input
               class="submit"

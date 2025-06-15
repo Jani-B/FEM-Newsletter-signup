@@ -92,9 +92,11 @@ p {
 
 .input-email {
   margin-bottom: 1rem;
-  width: 90%;
-  padding: 0.8rem 0 0.8rem 0;
+  width: 85%;
+  padding: 0.8rem 0 0.8rem 1rem;
   align-self: center;
+  border-radius: 8px;
+  border-width: 1px;
 }
 
 .submit {
@@ -103,4 +105,6 @@ p {
   align-self: center;
   background-color: var(--Blue-800);
   color: var(--Background-white);
+  border-radius: 8px;
+  border-width: 1px;
 }
